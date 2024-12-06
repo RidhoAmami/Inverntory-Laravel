@@ -4,7 +4,7 @@
 
 <div class="row justify-content-center">
     <div class="col-md-4">
-        <div class="card">
+        <div class="card pb-4">
             <div class="card-header">Jumlah Barang yang Tersedia</div>
             <div class="card-body">
                 <h5 class="card-title">{{ $totalProduct }} Barang</h5>
